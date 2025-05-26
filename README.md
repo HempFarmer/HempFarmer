@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Jose Antonio Garcia
 
-<!--
-**HempFarmer/HempFarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Aspiring C++ developer with a background in 3D art, photography, and cinematography.  
+🔧 Currently building beginner-friendly C++ projects to strengthen my understanding of core programming concepts.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [🎯 Number Guessing Game](https://github.com/HempFarmer/number-guessing-game): Console-based game with input validation and replay logic.
+- More coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Learning
+- C++ fundamentals (OOP, loops, conditionals)
+- Clean code practices
+- Version control with Git and GitHub
+
+## 🛠 Tools I Use
+- C++ | Visual Studio
+- Blender | Adobe Premiere Pro | Photoshop
+- Git & GitHub
+
+## 🌐 Portfolio
+[www.zerodegreeproductions.com](http://www.zerodegreeproductions.com)
+
+## 📫 Contact
+Email: j.a.garcia1002@gmail.com  
+Location: Houston, TX  
