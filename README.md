@@ -6,7 +6,7 @@
 ## 🎓 Certifications
 - Intro to C++ Programming — SoloLearn (May 2025)
 
-## 🌱 Career Goals
+## 🕹️ Career Goals
 I’m passionate about combining my storytelling and screenwriting skills with programming to develop immersive, story-driven video games. Currently focused on strengthening my C++ foundation and building diverse projects to prepare for a role in game development or interactive media.
 
 ## 🚀 Projects
