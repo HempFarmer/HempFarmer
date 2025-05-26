@@ -28,4 +28,4 @@ I’m passionate about combining my storytelling and screenwriting skills with p
 
 ## 📫 Contact
 Email: j.a.garcia1002@gmail.com  
-Location: Based in USA
+Location: USA
