@@ -22,4 +22,4 @@
 
 ## 📫 Contact
 Email: j.a.garcia1002@gmail.com  
-Location: Houston, TX  
+Location: Based in USA
